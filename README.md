@@ -3,4 +3,4 @@
 # 主题  
 # 素材  
 <a href="/素材/video/素材来源.md">视频来源</a>
-<a href="/素材/sound">音频文件</a>
+<a href="/素材/sounds">音频文件</a>
