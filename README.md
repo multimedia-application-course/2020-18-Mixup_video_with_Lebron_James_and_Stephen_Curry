@@ -8,7 +8,7 @@
 使用软件：
 <li>Premiere</li>
 <li>After Effects</li>
-<li>FL Studio</li>  
+<li>FL Studio 20</li>  
 
 # 素材  
 <a href="/素材/video/素材来源.md">视频来源</a>  
