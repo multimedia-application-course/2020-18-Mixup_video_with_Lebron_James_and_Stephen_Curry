@@ -52,5 +52,37 @@
     11. 上交作品和文档<br>
 
 # 素材  
+<a href="/素材/sounds">音频文件</a>  
+<a href="/素材/片头素材">片头素材</a><br>
 <a href="/素材/video/素材来源.md">视频来源</a>  
-<a href="/素材/sounds">音频文件</a>
+<p>因为素材视频太大上传不来</p>  
+<p>这里列出来自哪里</p>
+<p>名字与url连接：</p>  
+<li>[詹姆斯2018赛季十佳球]</li>  
+  https://www.youtube.com/watch?v=slGG3PMMXvM 
+<li>[LeBron James Top 10 Plays of Career]</li>    
+  https://www.youtube.com/watch?v=3zRqsy08YfM&t=13s
+<li>[LeBron James Top 10 dunks career詹姆斯前十大暴力灌籃]</li>  
+  https://www.youtube.com/watch?v=ViM-Kfkqqmo  
+<li>[VERY Best of LeBron James From the 2017-2018 NBA Regular Season and Playoffs]</li>  
+  https://www.youtube.com/watch?v=f7MC64X27Es&t=4s 
+<li>[LeBron James' BEST PLAY from EVERY GAME (2017-2018)]</li>  
+  https://www.youtube.com/watch?v=NyDC48eglYo&t=80s
+<li>[LeBron James ULTIMATE Mixtape | 2017-2018]</li>  
+  https://www.youtube.com/watch?v=6fQk1Od5kUw
+<li>[LeBron James ULTIMATE Mixtape | 2016-2017]</li>  
+  https://www.youtube.com/watch?v=yZUUItxjpz4
+<li>[库里已超越地球人 库里本赛季史诗级表现集锦]</li>    
+  https://v.qq.com/x/cover/wpmls54sp346b29/p0019lptnvp.html  
+<li>[史蒂芬-库里20大经典瞬间 读秒绝杀缔造勇士王朝]</li>      
+  https://v.qq.com/x/cover/mzc0020070va9to/w0032xhqmqd.html    
+<li>[勇士队魂史蒂芬库里的最佳瞬间 超远三分绝杀雷霆极限超远射穿骑士]</li>      
+  https://v.qq.com/x/cover/otyvvz9w2g189xf/l003319yj27.html  
+<li>[超远三分的王！ 库里生涯超远三分集锦（下）]</li>      
+  https://v.qq.com/x/cover/mzc00200mwkiqxo/t0032hdo55e.html   
+<li>[还记得那年的骑勇大战吗？ 詹姆斯库里对位超燃混剪]</li>      
+  https://v.qq.com/x/cover/mzc00200xsb0v8k/b0032b6j956.html   
+<li>[詹姆斯站着就把库里冒了库里被晃被冒集锦]</li>      
+  https://v.qq.com/x/page/x0321hiumio.html   
+<li>[总冠军最有希望一季！詹姆斯2019-20赛季精彩50佳球]</li>  
+  https://v.qq.com/x/cover/mzc002001f514i0/h0949a7zg2l.html 
