@@ -5,12 +5,12 @@
 # 设计目的  
 &emsp;詹姆斯和库里在2015年到2018年连续4年在总决赛上相遇，两位在赛场上互相拼杀，互有胜负，库里以3:1更胜一筹，但两者的职业态度和拼搏精神都是值得人们学习和喜爱的。本项目组成员中有两位的粉丝，想以此制作一份视频来表达对两位的喜爱和敬佩。同时通过对本次音视频的制作，加深对音视频的理解和巩固对各种多媒体相关工具的使用和操作。
 # 实现  
-1. 使用软件：
-&emsp;- Adobe Premiere<br>
-&emsp;- Adobe After Effects<br>
-&emsp;- FL Studio 20<br>
-&emsp;- Photoshop<br>
-&emsp;- 视频格式转换器<br>
+1. 使用软件:<br>
+&emsp; - Adobe Premiere<br>
+&emsp; - Adobe After Effects<br>
+&emsp; - FL Studio 20<br>
+&emsp; - Photoshop<br>
+&emsp; - 视频格式转换器<br>
 2. 制作过程:
 
 # 素材  
